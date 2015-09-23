@@ -5,6 +5,7 @@ build for lib#0(live build peformance);
 
 ## Useage
 Open _GlitchPackExample.v4p, this v4p file has some modules and fxs. more details can be found in this pacth, so first play it.
+  movie -> <https://www.youtube.com/watch?v=gzcsyCazfLQ>
 
 ## fxs
 ### ColRamGorilla
